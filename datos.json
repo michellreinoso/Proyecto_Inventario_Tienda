@@ -1,0 +1,22 @@
+{
+    "empanada": {
+        "precio": 3000,
+        "stock": 3
+    },
+    "arepa": {
+        "precio": 4000,
+        "stock": 2
+    },
+    "deditos": {
+        "precio": "1500",
+        "stock": "10"
+    },
+    "papa rellena": {
+        "precio": "3000",
+        "stock": "5"
+    },
+    "carimañola": {
+        "precio": "2000",
+        "stock": "5"
+    }
+}
